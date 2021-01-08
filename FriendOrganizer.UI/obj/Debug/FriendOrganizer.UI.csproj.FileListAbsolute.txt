@@ -40,3 +40,11 @@ D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\bin\Debug\FriendOrganizer
 D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\bin\Debug\EntityFramework.xml
 D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\bin\Debug\EntityFramework.SqlServer.dll
 D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\obj\Debug\View\NavigationView.g.cs
+D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\obj\Debug\View\NavigationView.baml
+D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\obj\Debug\View\FriendDetailView.g.cs
+D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\obj\Debug\View\FriendDetailView.baml
+D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\bin\Debug\Prism.dll
+D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\bin\Debug\Prism.pdb
+D:\PersonalProjects\FriendOrganizer\FriendOrganizer.UI\bin\Debug\Prism.xml

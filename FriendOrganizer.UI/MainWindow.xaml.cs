@@ -7,10 +7,10 @@ namespace FriendOrganizer.UI
     {
         private MainViewModel _viewModel;
 
-        public MainWindow(MainViewModel viewoModel)
+        public MainWindow(MainViewModel viewModel)
         {
             InitializeComponent();
-            _viewModel = viewoModel;
+            _viewModel = viewModel;
             DataContext = _viewModel;
             Loaded += MainWindow_Loaded;
         }
